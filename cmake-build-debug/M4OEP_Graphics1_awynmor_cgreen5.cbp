@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="M4OEP_Graphics1_awynmor_cgreen5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="M4OEP_Graphics1_awynmor_cgreen5">
+				<Option output="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/M4OEP_Graphics1_awynmor_cgreen5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 M4OEP_Graphics1_awynmor_cgreen5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="M4OEP_Graphics1_awynmor_cgreen5/fast">
+				<Option output="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/M4OEP_Graphics1_awynmor_cgreen5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 M4OEP_Graphics1_awynmor_cgreen5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aaronwynmor/Desktop/CS\ 120/M4OEP-Graphics1-awynmor-cgreen5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/circle.cpp">
+			<Option target="M4OEP_Graphics1_awynmor_cgreen5"/>
+		</Unit>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/circle.h">
+			<Option target="M4OEP_Graphics1_awynmor_cgreen5"/>
+		</Unit>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/graphics.cpp">
+			<Option target="M4OEP_Graphics1_awynmor_cgreen5"/>
+		</Unit>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/graphics.h">
+			<Option target="M4OEP_Graphics1_awynmor_cgreen5"/>
+		</Unit>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/shape.cpp">
+			<Option target="M4OEP_Graphics1_awynmor_cgreen5"/>
+		</Unit>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/shape.h">
+			<Option target="M4OEP_Graphics1_awynmor_cgreen5"/>
+		</Unit>
+		<Unit filename="/Users/aaronwynmor/Desktop/CS 120/M4OEP-Graphics1-awynmor-cgreen5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
